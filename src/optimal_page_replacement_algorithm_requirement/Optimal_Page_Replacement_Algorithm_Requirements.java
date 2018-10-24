@@ -24,7 +24,7 @@ public class Optimal_Page_Replacement_Algorithm_Requirements {
 	
 	
 	@SuppressWarnings("unused")
-	public void FIFO_Output_Calculation()
+	public void Optimal_Output_Calculation()
 	{
 		
 		boolean status_OutputContainer = false;
