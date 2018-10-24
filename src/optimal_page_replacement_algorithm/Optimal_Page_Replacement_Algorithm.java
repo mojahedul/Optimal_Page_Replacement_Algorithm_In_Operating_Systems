@@ -28,7 +28,7 @@ public class Optimal_Page_Replacement_Algorithm {
 		reference_StringArray = reference_String.split(" ");
 		
 		Optimal_Page_Replacement_Algorithm_Requirements obj_Optimal = new Optimal_Page_Replacement_Algorithm_Requirements(free_FramesNumber, reference_StringArray);
-		obj_Optimal.FIFO_Output_Calculation();
+		obj_Optimal.Optimal_Output_Calculation();
 		
 	} //End of Main() Method;
 	
